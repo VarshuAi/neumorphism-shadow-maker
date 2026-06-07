@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Soft-shadow neumorphism generator with bevel sliders.
+  name: neumorphism-shadow-maker version: 1.0 type: Repository author: VarshuAi description: >   Soft-shadow neumorphism generator with bevel sliders. primary_tech: CSS
 primary_tech: CSS
 ```
 
